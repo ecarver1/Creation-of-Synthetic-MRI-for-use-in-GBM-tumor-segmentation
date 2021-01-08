@@ -1,0 +1,1 @@
+# Creation-of-Synthetic-MRI-for-use-in-GBM-tumor-segmentation
