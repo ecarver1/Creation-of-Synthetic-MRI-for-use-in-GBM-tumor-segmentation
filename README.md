@@ -14,10 +14,11 @@ Set up
 
 GAN:
 
-Training 
+Training:
+
 Use t2.py. This is for the train of T2 modality, change the files accordingly in 'real_t2' to train other modalities.
 
-Testing 
+Testing: 
 
 python gen_t2.py --t2 PAHT_TO_MODEL. The generation of T2 modality. The code will generate synthetic T2s with
 
